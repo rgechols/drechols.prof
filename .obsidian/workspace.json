@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "6d11e01784211654",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6c45969d5d9d28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19b1c5bd2a2fb6f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ea746aa488b5b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d08e9e33910dd6b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31649c5bcfad56d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aeb549c2ec096c1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c35a6f7239ad798",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1e231f78207443f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fffa8fcab6c88605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74623123b9287ac4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f74054154aee939",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13d02409c08b44f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fceef4461d359a79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b19b1c5bd2a2fb6f",
+  "lastOpenFiles": [
+    "drechols.prof",
+    "Liascript Courses",
+    "Writing Guides/How to Use Perusall.md",
+    "About Me/Headshot_copy.jpg",
+    "About Me/Dr. Reid Echols.md",
+    "Writing Guides/How to Write A Research Essay.md",
+    "Writing Guides/Guide To Freewriting.md",
+    "Writing Guides/How to Write a Literary Critical Thesis.md",
+    "Writing Guides/How to Use Hypothes is.md",
+    "Writing Guides/How to Revise a Draft.md",
+    "Writing Guides/Giving Presentations.md",
+    "Writing Guides/Transition Words.md",
+    "Writing Guides/On finding and evaluating sources.md",
+    "Writing Guides/Formatting Text & Documents.md",
+    "Writing Guides/How to Close Read a Text.md",
+    "Writing Guides/English of the Worst Sort.md",
+    "Writing Guides/Evaluating Sources.md",
+    "Writing Guides/How to Use the TC Library Databases.md",
+    "Writing Guides/How (and Why) to Annotate Texts.md",
+    "Writing Guides/How We’ll Communicate.md",
+    "Writing Guides/How to Write a Revision Summary.md",
+    "Writing Guides/Check, Please! Starter Course.md",
+    "Writing Guides/How to Incorporate Quotes.md",
+    "Writing Guides/MLA Formatting.md",
+    "Writing Guides/How to Record Yourself.md",
+    "Writing Guides/How to Use Google Web Apps.md",
+    "Writing Guides/How to Use D2L (Brightspace).md",
+    "Writing Guides/Three Simple Rules for Writing.md",
+    "Writing Guides",
+    "favicon-128x128.png",
+    "favicon-32x32.png",
+    "Courses/English 2323/Lectures/Time & Timelessness.assets/Image.jpeg",
+    "Courses/English 2323/Lectures/Victorian Labor & Poverty.assets/Untitled.png",
+    "Courses/English 2323/Lectures/The Century Turns.assets/Untitled.png",
+    "Courses/English 2323/Lectures/Of Monsters and Men.assets/Untitled.png",
+    "Courses/English 2323/Lectures/Life in Motion.assets/Untitled.png",
+    "Courses/English 2323/Lectures/Going to the Movies.assets/Untitled.png",
+    "Courses/English 2323/Lectures/Victorian Faith & Doubt.assets/Untitled 3.png",
+    "Courses/English 2323/Lectures/Common Sense & Common Speech.assets",
+    "Courses/English 2323/Lectures/Victorian Vices & Virtues.assets",
+    "Courses/English 2323/Lectures/Victorian Labor & Poverty.assets",
+    "Courses/English 2323/Lectures/Victorian Faith & Doubt.assets",
+    "Courses/English 2323/Lectures/Innocence & Experience.assets",
+    "Courses/English 2323/Lectures/Writing War & Peace.assets",
+    "Courses/English 2323/Lectures/Time & Timelessness.assets",
+    "Courses/English 2323/Lectures/Of Monsters and Men.assets"
+  ]
+}
